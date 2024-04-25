@@ -1,0 +1,36 @@
+body{
+    margin: 0 auto;
+    width: 2048px;
+}
+div{
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    margin: 50px auto 0 auto;
+    width: 80vmin;
+    height: 70vmax;
+}
+.pagi{
+    width: 400px;
+    height: 300px;
+}
+.sore{
+    width: 400px;
+    height: 300px;
+}
+.senja{
+    width: 400px;
+    height: 300px;
+}
+.malam{
+    width: 400px;
+    height: 300px;
+}
+.siang{
+    width: 400px;
+    height: 300px;
+}
+.petang{
+    width: 400px;
+    height: 300px;
+}
